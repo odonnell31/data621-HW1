@@ -1,7 +1,7 @@
 ---
 title: "621 HW1"
-author: "Team 1, Justin Hsi, Tony Mei, Lin Li, Santosh Cheruku, Michael ODonnell"
-date: "September 13, 2020"
+author: "Team 1: Justin Hsi, Tony Mei, Lin Li, Santosh Cheruku, Michael ODonnell"
+date: "September 27, 2020"
 output:
   pdf_document: default
   html_document: default
